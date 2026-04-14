@@ -1,10 +1,12 @@
-# Monokai Pro (CE) for [My App](https://my-app.url)
+# Monokai Pro (CE) for [OpenCode](https://opencode.ai)
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ## About this theme
 
-This Monokai Pro Community Edition (CE) theme is maintained by [Contributor](https://github.com/contributor) and is based on the original [Monokai Pro](https://monokai.pro) theme.
+This Monokai Pro Community Edition (CE) theme is maintained by [Relz](https://github.com/Relz) and is based on the original [Monokai Pro](https://monokai.pro) theme.
+
+It brings the classic Monokai Pro palette to OpenCode with a warm charcoal background, bright semantic status colors, and syntax accents tuned for the OpenCode terminal UI.
 
 [Installation instructions](INSTALL.md)
 
