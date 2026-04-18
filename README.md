@@ -1,6 +1,6 @@
 # Monokai Pro (CE) for [OpenCode](https://opencode.ai)
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 ## About this theme
 
